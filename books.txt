@@ -1,0 +1,5 @@
+Book Name: 2001
+Author: clark
+Category: science fictions
+Price(LKR): 500
+
